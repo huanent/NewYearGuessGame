@@ -1,0 +1,12 @@
+{
+    "useClip": true,
+    "maxImageWidth": 2048,
+    "maxImageHeight": 2048,
+    "defaultResPath": "c:\\Users\\huanentWorkPC\\Documents\\EgretProjects\\NewYearGuessGame\\resource\\default.res.json",
+    "packGroups": {
+        "preload": true,
+        "loading": true,
+        "share": true,
+        "moreInfo": true
+    }
+}
